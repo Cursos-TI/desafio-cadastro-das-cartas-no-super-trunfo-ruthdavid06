@@ -3,7 +3,7 @@
 int main() {
 
     // Desafio Super Trunfo - Países
-    // Etapa 1 - Cadastro das Cartas 01 e 02
+    // Etapa 1 - Cadastro das Cartas 1 e 2
 
     // cadastro do nome das variaveis indicando os atributos e o número da carta ao que se referem
     char estado1, estado2; 
