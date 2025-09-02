@@ -16,7 +16,7 @@ int main() {
     printf("Digite a letra inicial do Estado: ");
     scanf(" %c", &estado1);
     
-    printf("Digite o código do Estado: ");
+    printf("Digite o código da Carta: ");
     scanf("%s", codigo1);
 
     printf("Digite o nome da cidade: ");
@@ -40,7 +40,7 @@ int main() {
     printf("Digite a letra inicial do Estado: ");
     scanf(" %c", &estado2);
     
-    printf("Digite o código do Estado: ");
+    printf("Digite o código da Carta: ");
     scanf("%s", codigo2);
 
     printf("Digite o nome da cidade: ");
